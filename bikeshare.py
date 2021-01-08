@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Asks user to specify a city, a month, and a day to analyze.
 
     Returns:
         (str) city - name of the city to analyze
@@ -18,7 +18,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
-        city = str(input('Enter name of the city to analyze (chicago, new york city, washington): '))
+        city = str(input('Enter a name of the city to analyze (chicago, new york city, washington): '))
         city = city.lower()
         if city in ['chicago', 'new york city', 'washington']:
             break
