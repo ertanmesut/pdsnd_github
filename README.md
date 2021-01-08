@@ -15,4 +15,5 @@ new_york_city.csv
 washington.csv  
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I have used https://git-scm.com/docs as a reference guide during the implementation of the third project of my Udacity Course
+I have also benefited a lot from Udacity Course Material. 
