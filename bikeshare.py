@@ -33,7 +33,7 @@ def get_filters():
         if month in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
             break
         else:
-            print('That\'s not a valid month. Please enter a valid month')
+            print('That\'s not a valid month. Please enter a valid month (e.g. January, February, ... ) from within first six month')
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
