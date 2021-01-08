@@ -23,7 +23,7 @@ def get_filters():
         if city in ['chicago', 'new york city', 'washington']:
             break
         else:
-            print ('That\'s not a valid city. Please enter a valid city')
+            print ('That\'s not a valid city. Please enter a valid city (chicago, new york city, washington)')
 
 
     # TO DO: get user input for month (all, january, february, ... , june)
@@ -33,7 +33,7 @@ def get_filters():
         if month in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
             break
         else:
-            print('That\'s not a valid month. Please enter a valid month')
+            print('That\'s not a valid month. Please enter a valid month (e.g. January, February, ... ) from within first six month')
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
