@@ -1,5 +1,5 @@
 ### Date created
-I created this project and README file on January 08, 2021
+I created this project and README file on Jan 08, 2021
 
 ### Project Title
 Bike Share Project for my Udacity Course
@@ -16,4 +16,4 @@ washington.csv
 
 ### Credits
 I have used https://git-scm.com/docs as a reference guide during the implementation of the third project of my Udacity Course
-I have also benefited a lot from Udacity Course Material. 
+I have also benefited a lot from Udacity Course Material.
